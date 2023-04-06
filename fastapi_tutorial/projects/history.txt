@@ -1,0 +1,286 @@
+    2  conda activate fastapi
+    4  cd fastapi_tutorial/
+    6  mkdir - projects/myapi
+    7  mkdir -p projects/myapi
+    8  cd projects/myapi/
+    9  npm create vite@latest frontend -- --template svelte
+   10  cd frontend/
+   11  npm install
+   12  exit
+   13  cd ..
+   14  conda activate fastapi
+   15  npm install svelte-spa-router
+   16  npm run dev
+   17  conda activate fastapi
+   18  npm run dev
+   19  npm run dev --host 0.0.0.0
+   20  grep -rn localhost
+   21  npm run dev
+   22  npm run dev
+   23  npm run dev --host
+   24  npm run dev --host
+   25  npm run start --host
+   26  npm run  --host
+   27  npm run dev  --host
+   28  npm run dev  --host
+   29  npm run dev --  --host
+   30  npm run dev --  --host
+   31  npm run dev --  --host
+   32  npm run dev --  --host
+   33  npm run dev --  --host
+   34  npm run dev --  --host
+   35  npm run dev --  --host
+   36  npm run dev --  --host 0.0.0.0
+   37  npm run dev --  --host 0.0.0.0
+   38  npm run dev --  --host 0.0.0.0
+   39  conda env list
+   40  conda activate fastapi
+   41  python -m ipykernel install --user --name fastapi
+   42  mamba install -c conda-forge ipykernel
+   43  python -m ipykernel install --user --name fastapi
+   44  ls
+   45  cd fastapi_tutorial/projects/myapi/frontend/
+   46  npm run dev
+   47  grep -rn 5173
+   48  npm run dev
+   49  netstat -ntlp
+   50  ps -ef | grep 58888
+   51  ps -ef
+   52  ps -ef | grep gigascake
+   53  ps -ef | grep 
+   54  ps -ef
+   55  nestat -ntlp
+   56  netstat -ntlp
+   57  npm run dev
+   58  netstat -ntlp 
+   59  npm run dev
+   60  npm run dev
+   61  cd ..
+   62  pip install "uvicorn[standard]"
+   63  uvicorn main:app --reload
+   64  uvicorn
+   65  pip list | grep uvicorn
+   66  whereis uvicorn
+   67  find ~ -name uvicorn
+   68  /home/fastapi/.local/bin/uvicorn main:app --reload
+   69  grep -rn 8000
+   70  /home/fastapi/.local/bin/uvicorn --help
+   71  /home/fastapi/.local/bin/uvicorn main:app --port 38888 --reload
+   72  netstat -ntlp
+   73  /home/fastapi/.local/bin/uvicorn main:app --port 38888 --reload
+   74  /home/fastapi/.local/bin/uvicorn main:app --host 0.0.0.0 --port 38888 --reload
+   75  /home/fastapi/.local/bin/uvicorn src.main:app --host 0.0.0.0 --port 38888 --reload
+   76  /home/fastapi/.local/bin/uvicorn src.main:app --host 0.0.0.0 --port 38888 --reload
+   77  cd frontend/src
+   78  mv main.py ../..
+   79  cd ..
+   80  ls
+   81  cd ..
+   82  ls
+   83  mv main.py ../..
+   84  cd ../..
+   85  ls
+   86  mv main.py projects/myapi/
+   87  cd projects/myapi/
+   88  ls
+   89  /home/fastapi/.local/bin/uvicorn main:app --host 0.0.0.0 --port 38888 --reload
+   90  history
+   91  /home/fastapi/.local/bin/uvicorn main:app --host 0.0.0.0 --port 38888 --reload
+   92  /home/fastapi/.local/bin/uvicorn main:app --host 0.0.0.0 --port 38888 --reload
+   93  /home/fastapi/.local/bin/uvicorn main:app --host 172.17.0.2 --port 38888 --reload
+   94  /home/fastapi/.local/bin/uvicorn main:app --host 0.0.0.0 --port 38888 --reload
+   95  history
+   96  history
+   97  mamba install -c conda-forge sqlalchemy
+   98  ls
+   99  alembic init migrations
+  100  alembic revision --autogenerate
+  101  alembic revision --autogenerate
+  102  alembic revision --autogenerate
+  103  alembic revision --autogenerate
+  104  alembic revision --autogenerate
+  105  alembic revision --autogenerate
+  106  alembic revision --autogenerate
+  107  alembic revision --autogenerate
+  108  alembic revision --autogenerate
+  109  alembic revision --autogenerate
+  110  alembic revision --autogenerate
+  111  alembic revision --autogenerate
+  112  alembic revision --autogenerate
+  113  sqlite3 myapi.db
+  114  sqlite
+  115  sqlite3
+  116  mamba install -c conda-forge sqlite
+  117  sqlite3 myapi.db
+  118  alembic upgrade head
+  119  sqlite3 myapi.db
+  120  /home/fastapi/.local/bin/uvicorn main:app --host 0.0.0.0 --port 38888 --reload
+  121  /home/fastapi/.local/bin/uvicorn main:app --host 0.0.0.0 --port 38888 --reload
+  122  conda activate fastapi
+  123  ls
+  124  cd fastapi_tutorial/projects/myapi/
+  125  ls
+  126  ll
+  127  cd frontend/
+  128  ls
+  129  history
+  130  npm run dev
+  131  npm run dev --host
+  132  npm run dev - --host
+  133  history
+  134  vi run_front_svelte.sh
+  135  chmod +x run_front_svelte.sh 
+  136  sh run_front_svelte.sh 
+  137  sh run_front_svelte.sh 
+  138  sh run_front_svelte.sh 
+  139  sh run_front_svelte.sh 
+  140  sh run_front_svelte.sh 
+  141  sh run_front_svelte.sh 
+  142  sh run_front_svelte.sh 
+  143  sh run_front_svelte.sh 
+  144  sh run_front_svelte.sh 
+  145  conda activate fastapi
+  146  history
+  147  ls
+  148  cd fastapi_tutorial/
+  149  ls
+  150  cd projects/
+  151  ls
+  152  cd myapi/frontend/
+  153  ls
+  154  npm install svelte-spa-router
+  155  ls
+  156  ll
+  157  mv _env .en
+  158  mv .en .env
+  159  ll
+  160  cd src
+  161  ls
+  162  cd routes/
+  163  ll
+  164  vi Detail.svelte 
+  165  conda activate fastapi
+  166  ls
+  167  cd fastapi_tutorial/
+  168  ls
+  169  cd projects/
+  170  ls
+  171  cd myapi
+  172  ls
+  173  history
+  174  vi run_backend_fastapi.sh
+  175  ll
+  176  chmod +x run_backend_fastapi.sh 
+  177  ll
+  178  sh run_backend_fastapi.sh 
+  179  sh run_backend_fastapi.sh 
+  180  sh run_backend_fastapi.sh 
+  181  sh run_backend_fastapi.sh 
+  182  sh run_backend_fastapi.sh 
+  183  sh run_backend_fastapi.sh 
+  184  ps -ef | grep npm
+  185  mamba activate fastapi
+  186  conda activate fastapi
+  187  ls
+  188  cd fastapi_tutorial/
+  189  ls
+  190  cd projects/
+  191  ls
+  192  cd myapi/
+  193  ls
+  194  sh run_backend_fastapi.sh 
+  195  cd frontend/
+  196  ls
+  197  npm install bootstrap
+  198  ll
+  199  cd node_modules/
+  200  ls
+  201  ll
+  202  npm list
+  203  history | grep vite
+  204  history
+  205   cd ..
+  206  cd ..
+  207  cd ..
+  208  ls
+  209  ls
+  210  mkdir myapi2
+  211  cd myapi2
+  212  npm create vite@latest frontend --template svelte
+  213  ls
+  214  cd frontend/
+  215  ls
+  216  cd ..
+  217  npm list
+  218  cd frontend/
+  219  ls
+  220  npm list
+  221  ll ~/fastapi_tutorial/projects/myapi/frontend/
+  222  ls
+  223  ll
+  224  npm install
+  225  ll
+  226  ll ~/fastapi_tutorial/projects/myapi/frontend/
+  227  cd ..
+  228  cd ..
+  229  mkdir myapi3
+  230  cd myapi3
+  231  npm create vite@latest frontend --template Svelte
+  232  npm create vite@latest frontend -- --template svelte
+  233  cd frontend/
+  234  ls
+  235  ll
+  236  npm install
+  237  cd ../..
+  238  ls
+  239  rm -rf myapi2
+  240  cd myapi3/frontend/
+  241  ll
+  242  cp ../../myapi/frontend/run_front_svelte.sh .
+  243  sh run_front_svelte.sh 
+  244  cd ../../myapi/frontend/
+  245  grep -rn DEFAULT_DEV_PORT
+  246  cd ../../myapi/frontend/
+  247  ls
+  248  cd ../../myapi3/frontend/
+  249  ls
+  250  vi jsconfig.json 
+  251  cd ..
+  252  ll ../myapi
+  253  cp ../myapi/run_backend_fastapi.sh .
+  254  sh run_backend_fastapi.sh 
+  255  ll
+  256  ll
+  257  cp ../myapi/main.py .
+  258  sh run_backend_fastapi.sh 
+  259  cp -R ../myapi/domain/ .
+  260  sh run_backend_fastapi.sh 
+  261  cp -R ../myapi/database.py .
+  262  sh run_backend_fastapi.sh 
+  263  cp -R ../myapi/models.py .
+  264  sh run_backend_fastapi.sh 
+  265  cd frontend/
+  266  ls
+  267  ll
+  268  cd src
+  269  ls
+  270  cp ../../../myapi/frontend/src/App.svelte .
+  271* cp ../../../myapi/alembic.ini .
+  272  cd ../../
+  273  cp ../myapi/alembic.ini .
+  274  cp -R ../myapi/migrations .
+  275  cd frontend/
+  276  npm install svelte-spa-router
+  277  ls
+  278  ll ../../myapi/frontend/
+  279  ll ../../myapi/frontend/src
+  280  cd src
+  281  cp -R ../../../myapi/frontend/src/routes/ .
+  282  cp -R ../../../myapi/frontend/src/lib/ .
+  283  cp -R ../../../myapi/frontend/src/components/ .
+  284  cd ../../
+  285  ls
+  286  ll ../myapi
+  287  cp ../myapi/myapi.db .
+  288  cd ..
+  289  history > history.txt
